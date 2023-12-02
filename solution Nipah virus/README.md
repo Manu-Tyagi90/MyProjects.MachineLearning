@@ -96,5 +96,5 @@ In September 2023, India reported a Nipah virus outbreak in Kerala. The Ministr
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Manu-Tyagi90/MyProjects.MachineLearning/blob/249b7ad98dc0cd61106e1f5547ed43a27d7c4455/solution%20Nipah%20virus/Picture3.png)
 
